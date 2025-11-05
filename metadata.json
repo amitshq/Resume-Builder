@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "A dynamic web application for creating customizable resumes with AI-powered assistance. Users can input their information, see a live preview, and use AI to enhance their professional summaries and job descriptions. The app supports exporting to PDF.",
+  "requestFramePermissions": []
+}
